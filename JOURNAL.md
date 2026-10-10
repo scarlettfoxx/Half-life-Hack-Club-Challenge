@@ -14,13 +14,17 @@
 
 ## Contents
 
-1. [2026-10-10 – Work session](#2026-10-10-work-session)
+1. [2026-10-10 – Work session : Logging into hack club spaces and KiCAD for the schematics. Not really sure what I'm doing. I had to restart it multiple times because it would just stop working and i would lose all my](#2026-10-10-work-session-logging-into-hack-club-spaces-and-ki)
 
 ## Design
 
-### 2026-10-10 – Work session
+### 2026-10-10 – Work session : Logging into hack club spaces and KiCAD for the schematics. Not really sure what I'm doing. I had to restart it multiple times because it would just stop working and i would lose all my
 
 **1.28h**
+
+Work session : Logging into hack club spaces and KiCAD for the schematics. Not really sure what I'm doing. I had to restart it multiple times because it would just stop working and i would lose all my progress. Or I would not be able to delete specific materials.Overall too many technical difficulties. I was unable to find the microcontroller. Maybe that's because I can't download the care package. That's because I don't have a permanent computer. I sign out a different one each day. Thankfully I found a temporary replacement for the microcontroller. I hope it doesn't cause me any problems. Sorry for the slow progress.
+
+![Screenshot 2026-10-10 12.52.32](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/0vw33C8mD0lrCz7nfeY9YcS4ktGZquo6/82623394cad9dd358b37ebb2862ed91f1aa8ca655f798fefefd9ba022be026a1.png)
 
 [Timelapse](https://lookout.hackclub.com/api/media/e3e6cb56-82fa-47af-9e34-de81195f8352/video.mp4)
 
