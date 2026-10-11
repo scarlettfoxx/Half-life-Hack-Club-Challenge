@@ -15,7 +15,7 @@
 ## Contents
 
 1. [2026-10-10 – Work session : Logging into hack club spaces and KiCAD for the schematics. Not really sure what I'm doing. I had to restart it multiple times because it would just stop working and i would lose all my](#2026-10-10-work-session-logging-into-hack-club-spaces-and-ki)
-2. [2026-10-11 – Work session](#2026-10-11-work-session)
+2. [2026-10-11 – Work session : Helppppp. The technical difficulties are so bad. By now i could have been done but I have been sitting here for 3 hours because hackclub.spaces.com is not working!!! WHY!!! PLSSS HELP M](#2026-10-11-work-session-helppppp-the-technical-difficulties-)
 
 ## Design
 
@@ -31,9 +31,11 @@ Work session : Logging into hack club spaces and KiCAD for the schematics. Not r
 
 [Timelapse](https://lookout.hackclub.com/api/media/084db69d-96a2-4085-9972-f756d2683723/video.mp4)
 
-### 2026-10-11 – Work session
+### 2026-10-11 – Work session : Helppppp. The technical difficulties are so bad. By now i could have been done but I have been sitting here for 3 hours because hackclub.spaces.com is not working!!! WHY!!! PLSSS HELP M
 
 **2.77h**
+
+Work session : Helppppp. The technical difficulties are so bad. By now i could have been done but I have been sitting here for 3 hours because hackclub.spaces.com is not working!!! WHY!!! PLSSS HELP ME. The screen keeps turning black. I've tried everything
 
 [Timelapse](https://lookout.hackclub.com/api/media/2c5ae597-9215-41f8-8c7a-16ec8f143058/video.mp4)
 
