@@ -18,7 +18,7 @@
 2. [2026-10-11 – ![Screenshot 2026-10-11 14.28.20](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/0vw33C8mD0lrCz7nfeY9YcS4ktGZquo6/2b4b66b7ec6fe6965b264b25a36fd4a8787cb61a8a52d52e38a5fd94850bf9bb.png](#2026-10-11-screenshot-2026-10-11-142820httpshalflifehackclub)
 3. [2026-10-11 – Nothing worked at all. I am so mad rn. My time was wasted, the websites did not work, and i did not win ANYTHING. I genuinely thought this would be fun as a beginner but it gave me too much stress. Pl](#2026-10-11-nothing-worked-at-all-i-am-so-mad-rn-my-time-was-)
 4. [2026-10-11 – Work session](#2026-10-11-work-session)
-5. [2026-10-11 – Work session](#2026-10-11-work-session)
+5. [2026-10-11 – Work session Showing proof of my technical difficulties. This has been my problem and the reason why i couldn't finish. I hope the problems improve for my terra project](#2026-10-11-work-session-showing-proof-of-my-technical-diffic)
 
 ## Design
 
@@ -60,8 +60,10 @@ Nothing worked at all. I am so mad rn. My time was wasted, the websites did not 
 
 [Timelapse](https://lookout.hackclub.com/api/media/31235695-b69f-4a1b-bd0c-8739824a3e83/video.mp4)
 
-### 2026-10-11 – Work session
+### 2026-10-11 – Work session Showing proof of my technical difficulties. This has been my problem and the reason why i couldn't finish. I hope the problems improve for my terra project
 
 **0.48h**
+
+Work session Showing proof of my technical difficulties. This has been my problem and the reason why i couldn't finish. I hope the problems improve for my terra project
 
 [Timelapse](https://lookout.hackclub.com/api/media/05940367-47f1-4e39-b847-f44b41caffcc/video.mp4)
