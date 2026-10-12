@@ -50,7 +50,7 @@ Work session : Helppppp. The technical difficulties are so bad. By now i could h
 
 **1.42h**
 
-Nothing worked at all. I am so mad rn. My time was wasted, the websites did not work, and i did not win ANYTHING. I genuinely thought this would be fun as a beginner but it gave me too much stress. Pls fix my issues thank you.
+Nothing worked at all. I am so mad rn. My time was wasted, the websites did not work, and i did not win ANYTHING. I genuinely thought this would be fun as a beginner but it gave me too much stress. Pls fix my issues thank you. Showing proof of my technical difficulties. This has been my problem and the reason why i couldn't finish. I hope the problems improve for my terra project
 
 [Timelapse](https://lookout.hackclub.com/api/media/ef07c770-c749-4c7a-9cdb-d1fd91df56b3/video.mp4)
 
